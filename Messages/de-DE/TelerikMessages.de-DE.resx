@@ -265,7 +265,7 @@
     <value>Abbrechen</value>
   </data>
   <data name="Editor_DialogInsert" xml:space="preserve">
-    <value />
+    <value>Einfügen</value>
   </data>
   <data name="Editor_DialogUpdate" xml:space="preserve">
     <value>Aktualisieren</value>
@@ -548,6 +548,9 @@
   </data>
   <data name="NumericTextBox_IncreaseValue" xml:space="preserve">
     <value>Wert erhöhen</value>
+  </data>
+  <data name="Optional_Label" xml:space="preserve">
+    <value>Optional</value>
   </data>
   <data name="Pager_Display" xml:space="preserve">
     <value>{0} - {1} von {2} Elementen</value>
@@ -896,5 +899,17 @@
   </data>
   <data name="Upload_UploadFiles" xml:space="preserve">
     <value>Hochladen</value>
+  </data>
+  <data name="Wizard_Done" xml:space="preserve">
+    <value>Fertig</value>
+  </data>
+  <data name="Wizard_Next" xml:space="preserve">
+    <value>Nächstes</value>
+  </data>
+  <data name="Wizard_Pager" xml:space="preserve">
+    <value>Schritt {0} von {1}</value>
+  </data>
+  <data name="Wizard_Previous" xml:space="preserve">
+    <value>Vorheriges</value>
   </data>
 </root>
